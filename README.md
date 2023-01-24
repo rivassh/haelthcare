@@ -24,5 +24,5 @@ https://doctor-yab.ir
 
 https://nobat.ir
 
-
+https://clinic.amazon.com
 
