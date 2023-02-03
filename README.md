@@ -26,3 +26,4 @@ https://nobat.ir
 
 https://clinic.amazon.com
 
+https://sbm24.com/
