@@ -34,4 +34,10 @@ https://rayteb.tamin.ir
 
 https://carecanada.health
 
-https://nobat.tums.ac.ir/
+https://nobat.tums.ac.ir
+
+http://salamatid.com
+
+https://www.salamati24.com
+
+https://azmayeshonline.com
