@@ -49,3 +49,5 @@ https://doctolib.fr
 https://www.docnoc.health
 
 https://zidoctor.com
+
+https://medario.ir
