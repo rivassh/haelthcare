@@ -53,3 +53,11 @@ https://zidoctor.com
 https://medario.ir
 
 https://siam.behdasht.gov.ir
+
+https://drmyco.ir
+
+https://boghrat.com
+
+https://www.tebinja.com
+
+https://www.shafadoc.ir
