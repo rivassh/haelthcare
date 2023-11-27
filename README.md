@@ -61,3 +61,5 @@ https://boghrat.com
 https://www.tebinja.com
 
 https://www.shafadoc.ir
+
+https://pezeshk24.com
