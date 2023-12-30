@@ -98,3 +98,4 @@ https://hospital.noorvision.com
 
 https://nobaan.com
 
+http://app.ebnesinahospital.ir:8932/
