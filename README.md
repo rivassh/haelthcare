@@ -99,3 +99,21 @@ https://hospital.noorvision.com
 https://nobaan.com
 
 http://app.ebnesinahospital.ir:8932/
+
+https://westclinic.ir
+
+https://pezeshkekhoob.com
+
+https://epezeshk.com
+
+https://sinapezeshk.ir
+
+https://pr.tums.ac.ir
+
+https://www.drinjast.com
+
+https://www.ipezeshk.com
+
+
+
+
