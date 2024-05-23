@@ -76,8 +76,6 @@ https://www.mihanpezeshk.com
 
 https://koodaknojavan.com
 
-https://drmyco.ir
-
 https://pezeshkanesalamat.ir
 
 https://www.sabis.ir
