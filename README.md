@@ -2,7 +2,9 @@
 list of helthcare websits and apps
 
 
-https://drdr.ir
+
+[<img height="24" title="a title" alt="Alt text" src="logos/drdr.svg">](https://www.digitalocean.com/products/app-platform)
+
 
 https://drnext.ir
 
