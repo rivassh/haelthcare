@@ -1,16 +1,11 @@
 # Healthcare
 list of helthcare websits and apps
 
-
-
-[<img height="24" title="a title" alt="Alt text" src="logos/drdr.svg">](https://www.digitalocean.com/products/app-platform)
-
-
-https://drnext.ir
+[<img height="24" title="drdr" alt="drdr" src="logos/drdr.svg">](https://drdr.ir)
+[<img height="24" title="drnext" alt="drnext" src="logos/drnext.webp">](https://drnext.ir)
+[<img height="24" title="doctoreto" alt="doctoreto" src="logos/doctoreto.png">](https://doctoreto.com)
 
 https://mom.ir/counseling
-
-https://doctoreto.com
 
 https://www.paziresh24.com
 
