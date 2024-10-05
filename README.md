@@ -27,7 +27,7 @@ https://sbm24.com
 
 https://www.drsosha.com
 
-https://rayteb.tamin.ir
+[<img height="24" title="doctoreto" alt="doctoreto" src="logos/rayateb.png">](https://rayteb.tamin.ir)
 
 https://carecanada.health
 
