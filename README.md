@@ -1,9 +1,9 @@
 # Healthcare
 list of helthcare websits and apps
 
-[<img height="24" title="drdr" alt="drdr" src="logos/drdr.svg">](https://drdr.ir){:target="_blank"}
-[<img height="24" title="drnext" alt="drnext" src="logos/drnext.webp">](https://drnext.ir){:target="_blank"}
-[<img height="24" title="doctoreto" alt="doctoreto" src="logos/doctoreto.png">](https://doctoreto.com){:target="_blank"}
+[<img height="24" title="drdr" alt="drdr" src="logos/drdr.svg">](https://drdr.ir{:target="_blank"})
+[<img height="24" title="drnext" alt="drnext" src="logos/drnext.webp">](https://drnext.ir{:target="_blank"})
+[<img height="24" title="doctoreto" alt="doctoreto" src="logos/doctoreto.png">](https://doctoreto.com{:target="_blank"})
 
 https://mom.ir/counseling
 
@@ -27,7 +27,7 @@ https://sbm24.com
 
 https://www.drsosha.com
 
-[<img height="24" title="doctoreto" alt="doctoreto" src="logos/rayateb.png">](https://rayteb.tamin.ir){:target="_blank"}
+[<img height="24" title="doctoreto" alt="doctoreto" src="logos/rayateb.png">](https://rayteb.tamin.ir{:target="_blank"})
 
 https://carecanada.health
 
@@ -114,3 +114,5 @@ https://isovisit.com
 http://drme.ir
 
 https://getzoop.com
+
+[<img height="24" title="drdr" alt="drdr" src="logos/drdr.svg">](https://drdr.ir{:target="_blank"})
